@@ -1,0 +1,18 @@
+# ================================
+# Install Dependencies
+# ================================
+langchain
+langchain_google_genai
+langchain_groq
+langchain_huggingface
+langchain_text_splitters
+langchain_community
+google-generativeai
+pytube
+youtube-transcript-api
+yt-dlp
+requests
+beautifulsoup4
+reportlab
+python-dotenv
+streamlit
